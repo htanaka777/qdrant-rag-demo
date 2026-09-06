@@ -1,0 +1,22 @@
+[
+  {
+    "question": "VPNに接続できません。最初に何を確認すればいいですか？",
+    "expected_source": "faq/vpn-001"
+  },
+  {
+    "question": "パスワードを忘れた場合はどうすればいいですか？",
+    "expected_source": "faq/password-001"
+  },
+  {
+    "question": "経費精算はいつまでに申請すればいいですか？",
+    "expected_source": "faq/expense-001"
+  },
+  {
+    "question": "会社PCを紛失した場合の対応を教えてください。",
+    "expected_source": "faq/lost-pc-001"
+  },
+  {
+    "question": "新しいPCへ交換するときの手順は？",
+    "expected_source": "faq/pc-replace-001"
+  }
+]
